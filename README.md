@@ -44,33 +44,33 @@
 
 ## 게임 화면
 
-<b>메인 화면</b>
 ![main](https://user-images.githubusercontent.com/58732639/114353844-74b8a100-9ba8-11eb-8a1a-d8fb858fcbc7.png)
+메인 화면 <br>
 --------
 
 ### 오목 게임 
 
-<b>오목 게임 설정</b> <br>
+오목 게임 설정 <br>
 ![omokset](https://user-images.githubusercontent.com/58732639/114353901-84d08080-9ba8-11eb-9b83-24af66110d78.png)
 --------
 
-<b>게임 진행 화면1</b> <br>
+게임 진행 화면1 <br>
 ![omok1](https://user-images.githubusercontent.com/58732639/114353948-93b73300-9ba8-11eb-8e72-380885abdcce.png)
 --------
 
-<b>게임 진행 화면2</b> <br>
+게임 진행 화면2 <br>
 ![omok2](https://user-images.githubusercontent.com/58732639/114353998-a03b8b80-9ba8-11eb-8889-8a10538087d7.png)
 --------
 
 ### 지뢰 찾기 게임 
 
-<b>지뢰 찾기 게임 설정</b> <br>
+지뢰 찾기 게임 설정 <br>
 ![bombset](https://user-images.githubusercontent.com/58732639/114354043-ae89a780-9ba8-11eb-9d36-87a9e77132a6.png)
 --------
-<b>게임 진행 화면1</b> <br>
+게임 진행 화면1 <br>
 ![bomb1](https://user-images.githubusercontent.com/58732639/114354095-be08f080-9ba8-11eb-84d1-4dcb0e19d8d7.png)
 --------
-<b>게임 진행 화면2</b> <br>
+게임 진행 화면2 <br>
 ![bomb2](https://user-images.githubusercontent.com/58732639/114354197-dbd65580-9ba8-11eb-9232-8811cfa39e26.png)
 --------
 
