@@ -42,7 +42,7 @@
  - 지뢰찾기의 랭킹은 시간이 적은순으로 나열한다.
 
 
-### 게임 화면
+## 게임 화면
 메인 화면 <br>
 ![main](https://user-images.githubusercontent.com/58732639/114353844-74b8a100-9ba8-11eb-8a1a-d8fb858fcbc7.png) 
 --------
