@@ -44,7 +44,7 @@
 
 ## 게임 화면
 
-<b>메인 화면</b> <br>
+<b>메인 화면</b>
 ![main](https://user-images.githubusercontent.com/58732639/114353844-74b8a100-9ba8-11eb-8a1a-d8fb858fcbc7.png)
 --------
 
@@ -64,13 +64,13 @@
 
 ### 지뢰 찾기 게임 
 
-지뢰 찾기 게임 설정 <br>
+<b>지뢰 찾기 게임 설정</b> <br>
 ![bombset](https://user-images.githubusercontent.com/58732639/114354043-ae89a780-9ba8-11eb-9d36-87a9e77132a6.png)
 --------
-게임 진행 화면1 <br>
+<b>게임 진행 화면1</b> <br>
 ![bomb1](https://user-images.githubusercontent.com/58732639/114354095-be08f080-9ba8-11eb-84d1-4dcb0e19d8d7.png)
 --------
-게임 진행 화면2 <br>
+<b>게임 진행 화면2</b> <br>
 ![bomb2](https://user-images.githubusercontent.com/58732639/114354197-dbd65580-9ba8-11eb-9232-8811cfa39e26.png)
 --------
 
