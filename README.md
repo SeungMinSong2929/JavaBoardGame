@@ -42,13 +42,12 @@
  - 지뢰찾기의 랭킹은 시간이 적은순으로 나열한다.
 
 
-## 게임 화면
-
-![main](https://user-images.githubusercontent.com/58732639/114353844-74b8a100-9ba8-11eb-8a1a-d8fb858fcbc7.png) <br>
+### 게임 화면
 메인 화면 <br>
+![main](https://user-images.githubusercontent.com/58732639/114353844-74b8a100-9ba8-11eb-8a1a-d8fb858fcbc7.png) 
 --------
 
-## [오목 게임]
+## 오목 게임
 
 오목 게임 설정 <br>
 ![omokset](https://user-images.githubusercontent.com/58732639/114353901-84d08080-9ba8-11eb-9b83-24af66110d78.png)
@@ -62,7 +61,7 @@
 ![omok2](https://user-images.githubusercontent.com/58732639/114353998-a03b8b80-9ba8-11eb-8889-8a10538087d7.png)
 --------
 
-### 지뢰 찾기 게임 
+## 지뢰 찾기 게임 
 
 지뢰 찾기 게임 설정 <br>
 ![bombset](https://user-images.githubusercontent.com/58732639/114354043-ae89a780-9ba8-11eb-9d36-87a9e77132a6.png)
