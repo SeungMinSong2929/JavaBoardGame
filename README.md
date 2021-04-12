@@ -26,7 +26,7 @@
 - 점수는 몇수안에 이겼는지와 승자의 이름이 기록된다.
 - (육목 시 승리 인정한다)
 #### 지뢰찾기 게임 규칙
-지뢰찾기의 필수 조건
+지뢰찾기의 필수 조건 (상위 5개)
  - 게임 시작시 맵 size를 10x10 ~ 50X50까지 결정할 수 있다.
  - 지뢰의 개수를 결정할 수 있다.
  - 주변에 지뢰가 없는 칸을 누를 경우 주변에 지뢰가 있는칸이 나올 때 까지 버튼이벤트가 발생한다.
@@ -44,21 +44,21 @@
 
 ## 게임 화면
 
-메인 화면 <br>
+<b>메인 화면</b> <br>
 ![main](https://user-images.githubusercontent.com/58732639/114353844-74b8a100-9ba8-11eb-8a1a-d8fb858fcbc7.png)
 --------
 
 ### 오목 게임 
 
-오목 게임 설정 <br>
+<b>오목 게임 설정</b> <br>
 ![omokset](https://user-images.githubusercontent.com/58732639/114353901-84d08080-9ba8-11eb-9b83-24af66110d78.png)
 --------
 
-게임 진행 화면1 <br>
+<b>게임 진행 화면1</b> <br>
 ![omok1](https://user-images.githubusercontent.com/58732639/114353948-93b73300-9ba8-11eb-8e72-380885abdcce.png)
 --------
 
-게임 진행 화면2 <br>
+<b>게임 진행 화면2</b> <br>
 ![omok2](https://user-images.githubusercontent.com/58732639/114353998-a03b8b80-9ba8-11eb-8889-8a10538087d7.png)
 --------
 
